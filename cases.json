@@ -1,0 +1,20 @@
+[
+  {
+    "case": 1,
+    "title": "Fintech and the Future of Finance",
+    "description": "Fintech and the Future of Finance is a case about the financial sector.",
+    "image": {
+		"src": "https://picsum.photos/200?blur=2",
+		"alt": "Case Image"
+    }
+  },
+  {
+    "case": 2,
+    "title": "Finance and Banking",
+    "description": "Finance and Banking is a case about the financial sector",
+    "image": {
+		"src": "https://picsum.photos/200?blur=2",
+		"alt": "Case Image"
+    }
+  }
+]
